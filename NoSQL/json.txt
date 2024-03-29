@@ -1,0 +1,3 @@
+Modelar usuário com estrtégia desnormalizada:
+
+https://jsonformatter.curiousconcept.com/
