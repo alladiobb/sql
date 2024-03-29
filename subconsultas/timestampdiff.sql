@@ -1,0 +1,1 @@
+SELECT MAX (TIMESTAMPDIFF(YEAR  , data_nascimneto, CURRENT_DATE())) AS maior_idade 
